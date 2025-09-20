@@ -84,7 +84,7 @@ jobs:
       - name: Commit changes
         uses: lazarevicOgnjen/git-auto-commit-action@v6
         with:
-          commit_message: Update bp.md
+          commit_message: Update lp.md
           files: lp.md
         id: auto-commit-action2
 
@@ -114,7 +114,7 @@ jobs:
       - name: Commit changes
         uses: lazarevicOgnjen/git-auto-commit-action@v6
         with:
-          commit_message: Update bp.md
+          commit_message: Update oop.md
           files: oop.md
         id: auto-commit-action3
 
@@ -132,3 +132,33 @@ jobs:
         env:
           WEBHOOK_MAIN: ${{ secrets.WEBHOOK_MAIN }}
         run: python oop-d.py
+
+      # Step 18: Run scraping script
+      - name: Run main script
+        env:
+          MAIL: ${{ secrets.MAIL }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python pj-m.py
+
+      # Step 19: Commit changes to novosti.md
+      - name: Commit changes
+        uses: lazarevicOgnjen/git-auto-commit-action@v6
+        with:
+          commit_message: Update pj.md
+          files: pj.md
+        id: auto-commit-action4
+
+      # Step 16: Take screenshot if changes detected
+      - name: Take photo
+        if: steps.auto-commit-action4.outputs.changes_detected == 'true'
+        env:
+          MAIL: ${{ secrets.MAIL }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python pj-p.py
+
+      # Step 17: Notify via Discord bot
+      - name: Discord bot notification
+        if: steps.auto-commit-action4.outputs.changes_detected == 'true'
+        env:
+          WEBHOOK_MAIN: ${{ secrets.WEBHOOK_MAIN }}
+        run: python pj-d.py
