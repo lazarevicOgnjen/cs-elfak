@@ -148,7 +148,7 @@ jobs:
           files: pj.md
         id: auto-commit-action4
 
-      # Step 16: Take screenshot if changes detected
+      # Step 20: Take screenshot if changes detected
       - name: Take photo
         if: steps.auto-commit-action4.outputs.changes_detected == 'true'
         env:
@@ -156,9 +156,39 @@ jobs:
           PASSWORD: ${{ secrets.PASSWORD }}
         run: python pj-p.py
 
-      # Step 17: Notify via Discord bot
+      # Step 21: Notify via Discord bot
       - name: Discord bot notification
         if: steps.auto-commit-action4.outputs.changes_detected == 'true'
         env:
           WEBHOOK_MAIN: ${{ secrets.WEBHOOK_MAIN }}
         run: python pj-d.py
+
+      # Step 22: Run scraping script
+      - name: Run main script
+        env:
+          MAIL: ${{ secrets.MAIL }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python sp-m.py
+
+      # Step 23: Commit changes to novosti.md
+      - name: Commit changes
+        uses: lazarevicOgnjen/git-auto-commit-action@v6
+        with:
+          commit_message: Update sp.md
+          files: sp.md
+        id: auto-commit-action5
+
+      # Step 24: Take screenshot if changes detected
+      - name: Take photo
+        if: steps.auto-commit-action5.outputs.changes_detected == 'true'
+        env:
+          MAIL: ${{ secrets.MAIL }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python sp-p.py
+
+      # Step 25: Notify via Discord bot
+      - name: Discord bot notification
+        if: steps.auto-commit-action5.outputs.changes_detected == 'true'
+        env:
+          WEBHOOK_MAIN: ${{ secrets.WEBHOOK_MAIN }}
+        run: python sp-d.py
