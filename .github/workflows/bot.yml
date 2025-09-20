@@ -102,3 +102,33 @@ jobs:
         env:
           WEBHOOK_MAIN: ${{ secrets.WEBHOOK_MAIN }}
         run: python lp-d.py
+
+      # Step 14: Run scraping script
+      - name: Run main script
+        env:
+          MAIL: ${{ secrets.MAIL }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python oop-m.py
+
+      # Step 15: Commit changes to novosti.md
+      - name: Commit changes
+        uses: lazarevicOgnjen/git-auto-commit-action@v6
+        with:
+          commit_message: Update bp.md
+          files: oop.md
+        id: auto-commit-action3
+
+      # Step 16: Take screenshot if changes detected
+      - name: Take photo
+        if: steps.auto-commit-action3.outputs.changes_detected == 'true'
+        env:
+          MAIL: ${{ secrets.MAIL }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python oop-p.py
+
+      # Step 17: Notify via Discord bot
+      - name: Discord bot notification
+        if: steps.auto-commit-action3.outputs.changes_detected == 'true'
+        env:
+          WEBHOOK_MAIN: ${{ secrets.WEBHOOK_MAIN }}
+        run: python oop-d.py
