@@ -55,7 +55,7 @@ jobs:
         uses: lazarevicOgnjen/git-auto-commit-action@v6
         with:
           commit_message: Update bp.md
-          files: bp.md
+          file_pattern: bp.md
         id: auto-commit-action1
 
       # Step 8: Take screenshot if changes detected
@@ -85,7 +85,7 @@ jobs:
         uses: lazarevicOgnjen/git-auto-commit-action@v6
         with:
           commit_message: Update lp.md
-          files: lp.md
+          file_pattern: lp.md
         id: auto-commit-action2
 
       # Step 12: Take screenshot if changes detected
@@ -115,7 +115,7 @@ jobs:
         uses: lazarevicOgnjen/git-auto-commit-action@v6
         with:
           commit_message: Update oop.md
-          files: oop.md
+          file_pattern: oop.md
         id: auto-commit-action3
 
       # Step 16: Take screenshot if changes detected
@@ -145,7 +145,7 @@ jobs:
         uses: lazarevicOgnjen/git-auto-commit-action@v6
         with:
           commit_message: Update pj.md
-          files: pj.md
+          file_pattern: pj.md
         id: auto-commit-action4
 
       # Step 20: Take screenshot if changes detected
@@ -175,7 +175,7 @@ jobs:
         uses: lazarevicOgnjen/git-auto-commit-action@v6
         with:
           commit_message: Update sp.md
-          files: sp.md
+          file_pattern: sp.md
         id: auto-commit-action5
 
       # Step 24: Take screenshot if changes detected
@@ -205,7 +205,7 @@ jobs:
         uses: lazarevicOgnjen/git-auto-commit-action@v6
         with:
           commit_message: Update aor1.md
-          files: aor1.md
+          file_pattern: aor1.md
         id: auto-commit-action6
 
       # Step 28: Take screenshot if changes detected
@@ -235,7 +235,7 @@ jobs:
         uses: lazarevicOgnjen/git-auto-commit-action@v6
         with:
           commit_message: Update oopj.md
-          files: oopj.md
+          file_pattern: oopj.md
         id: auto-commit-action7
 
       # Step 32: Take screenshot if changes detected
