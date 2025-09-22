@@ -12,6 +12,7 @@ U prilogu se nalaze rezultati junskog ispitnog roka.
 
 Upis ocena i gledanje radova održaće se u sredu, 24.9.2025. u 14.00h u laboratoriji 533.
 
+OOP Jun 2025 - rezultati.pdf
 Permalink
 See this post in context
 Obaveštenja -> OOP - Usmeni deo ispita - JUN
