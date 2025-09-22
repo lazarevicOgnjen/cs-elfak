@@ -1,6 +1,11 @@
 Advanced search...
 Forums
-Search results: 8
+Search results: 9
+Obaveštenja -> Septembarski rok 2025 - prijava dela ispita koji se polaže
+by Nikola Đorđević - Monday, 22 September 2025, 6:44 PM
+Studenti koji polažu ispit u septembarskom roku treba da odaberu deo ispita koji polažu u anketi koja je dostupna na CS-u. Anketa je otvorena do četvrtka, 25.09.2025.
+Permalink
+See this post in context
 Obaveštenja -> Usmeni deo ispita - Jun 2025.
 by Suzana Stojkovic - Friday, 19 September 2025, 8:06 PM
 Usmeni deo ispita će se održati u ponedeljak 22.9.2025. od 15:00 sati u sali K4.
