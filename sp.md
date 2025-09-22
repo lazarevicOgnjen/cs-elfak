@@ -1,6 +1,14 @@
 Advanced search...
 Forums
-Search results: 9
+Search results: 10
+Forum novosti -> Резултати писменог дела испита у јунском испитном року 2025
+by Nikola Davidović - Monday, 22 September 2025, 10:02 AM
+Поштоване колегинице и колеге, 
+У прилогу су резултати писменог дела испита у јунском испитном року 2025. Професор Стоименов ће на основу ових резултата објавити коначни списак са предлогом оцена.
+Поздрав
+SP 2025 Jun Bodovi.pdf
+Permalink
+See this post in context
 Forum novosti -> Делимични резултати испита - ЈУН 2025
 by Leonid Stoimenov - Friday, 19 September 2025, 12:04 PM
 У прилогу су делимични резултати испита за Т део. 
