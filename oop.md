@@ -1,11 +1,19 @@
 Advanced search...
 Forums
-Search results: 16
+Search results: 17
 1
 (current)
 2
 »
 Next page
+Obaveštenja -> OOP - Rezultati junskog ispitnog roka
+by Aleksandar Veljanovski - Monday, 22 September 2025, 1:13 PM
+U prilogu se nalaze rezultati junskog ispitnog roka.
+
+Upis ocena i gledanje radova održaće se u sredu, 24.9.2025. u 14.00h u laboratoriji 533.
+
+Permalink
+See this post in context
 Obaveštenja -> OOP - Usmeni deo ispita - JUN
 by Aleksandar Veljanovski - Tuesday, 16 September 2025, 1:55 PM
 U prilogu se nalazi spisak studenata koji su položili pisani deo ispita u januarskom ispitnom roku i pozivaju se na usmeni deo ispita.
@@ -95,15 +103,6 @@ Obaveštenje za izradu lab. vežbi
 
 OOP-E - Laboratorijske vežbe 2024.pdf
 Permalink
-See this post in context
-Obaveštenja -> Raspored lab. vežbi za 2024-25 -> Re: Raspored lab. vežbi za 2024-25
-by Aleksandar Veljanovski - Wednesday, 30 October 2024, 8:48 AM
-Laboratorijske vežbe biće održane u laboratoriji R2.
-
-Na spisku se nalaze svi studenti koji su zvanično na spisku predmeta.
-Ukoliko se ne nalazite na spisku za laboratorijske vežbe, potrebno je da vas studentska služba prvo doda na spisak predmet.
-  Permalink
-Show parent
 See this post in context
 1
 (current)
