@@ -1,6 +1,34 @@
 Advanced search...
 Forums
-Search results: 10
+Search results: 12
+1
+(current)
+2
+»
+Next page
+Forum novosti -> Резултати испита - ЈУН 2025
+by Leonid Stoimenov - Monday, 22 September 2025, 12:26 PM
+У прилогу су резултати испита за испитни рок ЈУН 2025.
+
+Поља означена зеленом бојом значе да сте тај део испита положили и да вам освојени поени важе и у наредним испитним роковима.
+Жута боја значи да нисте положили тај део испита и да морате да га полажете поново.
+Уколико вам је поље Усмени обојено зеленом бојом, можете да изађете на усмени део испита.
+Укупан број поена се рачуна као збир поена за П и Т делове, Лаб. в. (само за генерацију 2023/24) и поена са усменог дела испита (2023/24 и 2024/25) по правилима које имате на страницама предмета.
+2023/24: Т (40%) + П (40%) + Лаб (10%) + Усмени (10%)
+2024/25: Т (40%) + П (40%) + Усмени (20%)
+Усмени део испита је у четвртак, 25.9.2025. у 10:00 по распореду који ћу да објавим. За усмени део испита је неопходна пријава на страницама предмета. 
+Радове можете да погледате у среду, 24.9.2025. у 13:00, просторија М2-2 .
+
+SP JUN 25 novi .pdf
+Permalink
+See this post in context
+Forum novosti -> Резултати испита - ЈУН 25 (претходне генерације)
+by Leonid Stoimenov - Monday, 22 September 2025, 12:06 PM
+У прилогу су резултати за претходне генерације које немају усмени део испита.
+Упис оцена је у четвртак, 25.9.25. у 10:00.
+SP JUN 25.pdf
+Permalink
+See this post in context
 Forum novosti -> Резултати писменог дела испита у јунском испитном року 2025
 by Nikola Davidović - Monday, 22 September 2025, 10:02 AM
 Поштоване колегинице и колеге, 
@@ -76,29 +104,8 @@ Miloš Antić
 Permalink
 Show parent
 See this post in context
-Forum novosti -> Резултати испита - Децембар -> Упис оцена и усмени део испита - Децембар 2024
-by Leonid Stoimenov - Monday, 25 August 2025, 1:04 PM
-Studenti po starom koji su položili završni ispit u decembarskom ispitnom roku, mogu da upišu ocenu u četvrtak, 28.8.25 ili petak, 29.8. u 11h u prostoriji M2-1.
-Biću u kancelariji u tom periodu dostupan za upis od 11:00 do 12:00.
-(Studenti: 16626, 17686, 18281, 18896)
-
-Usmeni deo ispita u decembarskom ispitnom roku, za studente koji su položili završni ispit u decembru ili nekom od prethodnih rokova, će biti u petak, 29.8.2025 u 10:00 u prostoriji M2-1.
-Molim vas da se za usmeni ispit prijavite preko upitnika. Rok za prijavu za usmeni deo ispita je četvrtak, 28.8.25. do 12h.
-
-Studenti koji ne žele da polažu usmeni ispit sada, mogu to da urade u nekom od narednih ispitnih rokova.
-Permalink
-Show parent
-See this post in context
-Forum novosti -> Резултати испита - Децембар -> Odgovor: Резултати испита - Децембар
-by Leonid Stoimenov - Monday, 14 July 2025, 11:09 AM
-Upis ocena za ispitni rok DECEMBAR, za studente koji su po starom, je u periodu od 15.7. do 22.7. u 11h u prostoriji M2-1. 
-Biću u kancelariji u tom periodu dostupan za upis od 11 do 11:15. 
-(Studenti: 16626, 17686, 18281, 18896)
-
-Usmeni deo ispita, za studente koji žele da polažu, će biti u petak, 18.7.2025 u 10:00 u prostoriji M2-1. Molim vas da se za usmeni ispit prijavite preko upitnika.
-Studenti koji ne žele da polažu usmeni ispit sada, mogu to da urade u nadoknadi decembarskog roka ili u nekom od narednih rokova kada budu održavani.
-
-
-Permalink
-Show parent
-See this post in context
+1
+(current)
+2
+»
+Next page
