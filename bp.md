@@ -1,6 +1,14 @@
 Advanced search...
 Forums
-Search results: 9
+Search results: 10
+News forum -> Raspored studenata po salama - septembarski ispitni rok (2024/2025)
+by Milena Frtunić Gligorijević - Tuesday, 23 September 2025, 8:20 PM
+Poštovane koleginice i kolege,
+Raspored studenata po salama za polaganje ispita u septembarskom ispitnom roku, 24.09.2025. godine, je sledeći:
+sala A4: 17946<=broj indeksa<=19727
+sala A3: 19728<=broj indeksa<=20019
+Permalink
+See this post in context
 News forum -> Резултати испита - ЈУН 2025
 by Leonid Stoimenov - Friday, 19 September 2025, 11:51 AM
 У прилогу су резултати испита након испитног рока ЈУН 2025.
