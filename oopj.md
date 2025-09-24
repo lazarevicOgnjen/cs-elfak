@@ -1,6 +1,13 @@
 Advanced search...
 Forums
-Search results: 4
+Search results: 5
+Obaveštenja -> Rezultati ispita u septembarskom ispitnom roku
+by Anđelija Đorđević - Wednesday, 24 September 2025, 5:09 PM
+U prilogu se nalaze rezultati ispita u septembarskom ispitnom roku.
+Gledanje radova i upis ocena održaće se u ponedeljak, 29. septembra. u 13.15h u laboratoriji 533.
+ООПрој септембар 2025.pdf
+Permalink
+See this post in context
 Obaveštenja -> OOProj - Rezultati ispita u junskom ispitnom roku
 by Anđelija Đorđević - Tuesday, 16 September 2025, 2:24 PM
 U prilogu su rezultati ispita u junskom ispitnom roku.
