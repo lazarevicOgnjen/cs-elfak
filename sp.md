@@ -1,11 +1,26 @@
 Advanced search...
 Forums
-Search results: 12
+Search results: 13
 1
 (current)
 2
 »
 Next page
+Forum novosti -> Резултати испита - ЈУН 2025 -> Распоред полагања усменог дела испита - ЈУН 2025
+by Leonid Stoimenov - Wednesday, 24 September 2025, 5:54 PM
+10:00
+19548 Андрија Бојић
+19584 Данило Денић
+19635 Снежана Здравковић
+
+10:20
+19649 Лена Исаку
+19801 Богдан Николић
+19939 Филип Стевановић
+
+Permalink
+Show parent
+See this post in context
 Forum novosti -> Резултати испита - ЈУН 2025
 by Leonid Stoimenov - Monday, 22 September 2025, 12:26 PM
 У прилогу су резултати испита за испитни рок ЈУН 2025.
@@ -95,14 +110,6 @@ by Leonid Stoimenov - Wednesday, 3 September 2025, 6:13 PM
 Положени Т део важи и у наредним роковима до краја ове школске године.
 SP JAN 25 - T deo.pdf
 Permalink
-See this post in context
-Forum novosti -> Резултати испита - Децембар -> Распоред за усмени део испита - Децембар 2024
-by Leonid Stoimenov - Thursday, 28 August 2025, 11:19 AM
-Raspored za usmeni deo ispita (Decembar):
-10:00
-Miloš Antić
-Permalink
-Show parent
 See this post in context
 1
 (current)
