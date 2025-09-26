@@ -1,6 +1,19 @@
 Advanced search...
 Forums
-Search results: 10
+Search results: 11
+1
+(current)
+2
+»
+Next page
+Obaveštenja -> Septembarski rok 2025 - Raspored polaganja pismenog dela ispita
+by Nikola Đorđević - Friday, 26 September 2025, 3:05 PM
+Raspored polaganja pismenog dela ispita u septembarskom roku je sledeći:
+K2 - broj indeksa <= 19788
+E4 - broj indeksa >= 19809.
+
+Permalink
+See this post in context
 Obaveštenja -> Prvi termin za usmeni deo ispita u septembarskom roku
 by Suzana Stojkovic - Friday, 26 September 2025, 9:56 AM
 Usmeni deo ispita, za studente koji su u anketi izabrali da polažu usmeni deo u terminu pismenog, će se održati u subotu 27.9.2025. u 11:00 sati u učionici 531. 
@@ -51,10 +64,8 @@ U prilogu su poeni za Javu u januarskom roku 2025. Ko želi da pogleda rad neka 
 PJ 2025-01 poeni Java.pdf
 Permalink
 See this post in context
-Obaveštenja -> Zadaci za vežbanje - C# i Windows forme
-by Nikola Đorđević - Friday, 8 August 2025, 1:57 PM
-Poštovane koleginice i kolege,
-
-Na stranici predmeta su objavljeni zadaci za vežbanje (C# i Windows Forme).
-Permalink
-See this post in context
+1
+(current)
+2
+»
+Next page
