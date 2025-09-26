@@ -50,7 +50,7 @@ jobs:
           PASSWORD: ${{ secrets.PASSWORD }}
         run: python bp-m.py
 
-      # Step 7: Commit changes to novosti.md
+      # Step 7: Commit changes to bp.md
       - name: Commit changes
         uses: lazarevicOgnjen/git-auto-commit-action@v6
         with:
@@ -80,7 +80,7 @@ jobs:
           PASSWORD: ${{ secrets.PASSWORD }}
         run: python lp-m.py
 
-      # Step 11: Commit changes to novosti.md
+      # Step 11: Commit changes to lp.md
       - name: Commit changes
         uses: lazarevicOgnjen/git-auto-commit-action@v6
         with:
@@ -110,7 +110,7 @@ jobs:
           PASSWORD: ${{ secrets.PASSWORD }}
         run: python oop-m.py
 
-      # Step 15: Commit changes to novosti.md
+      # Step 15: Commit changes to oop.md
       - name: Commit changes
         uses: lazarevicOgnjen/git-auto-commit-action@v6
         with:
@@ -140,7 +140,7 @@ jobs:
           PASSWORD: ${{ secrets.PASSWORD }}
         run: python pj-m.py
 
-      # Step 19: Commit changes to novosti.md
+      # Step 19: Commit changes to pj.md
       - name: Commit changes
         uses: lazarevicOgnjen/git-auto-commit-action@v6
         with:
@@ -170,7 +170,7 @@ jobs:
           PASSWORD: ${{ secrets.PASSWORD }}
         run: python sp-m.py
 
-      # Step 23: Commit changes to novosti.md
+      # Step 23: Commit changes to sp.md
       - name: Commit changes
         uses: lazarevicOgnjen/git-auto-commit-action@v6
         with:
@@ -200,7 +200,7 @@ jobs:
           PASSWORD: ${{ secrets.PASSWORD }}
         run: python aor1-m.py
 
-      # Step 27: Commit changes to novosti.md
+      # Step 27: Commit changes to aor1.md
       - name: Commit changes
         uses: lazarevicOgnjen/git-auto-commit-action@v6
         with:
@@ -230,7 +230,7 @@ jobs:
           PASSWORD: ${{ secrets.PASSWORD }}
         run: python oopj-m.py
 
-      # Step 31: Commit changes to novosti.md
+      # Step 31: Commit changes to oopj.md
       - name: Commit changes
         uses: lazarevicOgnjen/git-auto-commit-action@v6
         with:
