@@ -1,6 +1,11 @@
 Advanced search...
 Forums
-Search results: 9
+Search results: 10
+Obaveštenja -> Prvi termin za usmeni deo ispita u septembarskom roku
+by Suzana Stojkovic - Friday, 26 September 2025, 9:56 AM
+Usmeni deo ispita, za studente koji su u anketi izabrali da polažu usmeni deo u terminu pismenog, će se održati u subotu 27.9.2025. u 11:00 sati u učionici 531. 
+Permalink
+See this post in context
 Obaveštenja -> Septembarski rok 2025 - prijava dela ispita koji se polaže
 by Nikola Đorđević - Monday, 22 September 2025, 6:44 PM
 Studenti koji polažu ispit u septembarskom roku treba da odaberu deo ispita koji polažu u anketi koja je dostupna na CS-u. Anketa je otvorena do četvrtka, 25.09.2025.
