@@ -1,11 +1,24 @@
 Advanced search...
 Forums
-Search results: 17
+Search results: 18
 1
 (current)
 2
 »
 Next page
+Obaveštenja -> Распоред полагања испита (Септембар 2025)
+by Vladan Mihajlović - Monday, 29 September 2025, 7:51 AM
+Распоред полагања писаног дела испита по просторијама из предмета Објектно оријентисано програмирање у септембарском испитном року наставне 2024/2025, године је следећи:
+
+  просторија 
+  број индекса студента 
+Е3 ≤19650
+Е4 >19650
+ 
+
+
+Permalink
+See this post in context
 Obaveštenja -> OOP - Rezultati junskog ispitnog roka
 by Aleksandar Veljanovski - Monday, 22 September 2025, 1:13 PM
 U prilogu se nalaze rezultati junskog ispitnog roka.
@@ -79,30 +92,6 @@ See this post in context
 Obaveštenja -> OOP - Elektronika
 by Anđelija Đorđević - Monday, 2 December 2024, 10:45 AM
 Zbog molbe studenata laboratorijske vežbe (za smer Elektronika) koje su planirane za 4. decembar održaće se 5. decembra.
-Permalink
-See this post in context
-Obaveštenja -> Raspored laboratorijskih vežbi - smer Elektronika
-by Anđelija Đorđević - Wednesday, 30 October 2024, 11:31 AM
-Raspored termina za laboratorijske vežbe na smeru Elektronika za tekuću školsku godinu:
-Lab. vežba I - 6. 11. 2024.
-Lab. vežba II - 20. 11. 2024.
-Lab. vežba III - 28. 11. 2024.
-Lab. vežba IV - 4. 12. 2024.
-Lab. vežba V - 18. 12. 2024.
-Nadoknada - 25. 12. 2024. po važećem rasporedu
-
-Raspored po grupama je dat u prilogu.
-
-Obaveštenje za izradu lab. vežbi
-
-- Student radi zadatak iz liste objavljenih zadataka.
-- Student je u obavezi da radi zadatak sa onim rednim brojem koji odgovara cifri najmanje težine iz svog broja indeksa 1234[C].
- - Laboratorijske vežbe rade samo oni studenti koji prvi put slušaju predmet tokom školske 2024/2025. godine.
-- Ne postoji mogućnost popravljanja poena ostvarenih tokom izrade laboratorijskih vežbi.
-- Laboratorijske vežbe se uvek rade u redosledu 1-2-3-4-5. Ukoliko student propusti jednu vežbu u obavezi je da radi istu na prvom terminu u kom se pojavi.
-- Student samo jednom ima pravo da radi laboratorijske vežbe.
-
-OOP-E - Laboratorijske vežbe 2024.pdf
 Permalink
 See this post in context
 1
