@@ -1,11 +1,18 @@
 Advanced search...
 Forums
-Search results: 18
+Search results: 19
 1
 (current)
 2
 »
 Next page
+Obaveštenja -> Резултати писменог дела испита (Септембар 2025)
+by Vladan Mihajlović - Wednesday, 1 October 2025, 12:29 PM
+Резултати писменог дела испита студената који су полагали испит из предмета Објектно оријентисано програмирање у року септембар наставне 2024/2025. године налазе се у прилогу овог обавештења.
+Усмени део испита ће бити у петак 3.10.2025. године од 9:15 у просторији К4 (4. спрат у новој ламели).
+OOP 2025 Septembar - Pisani Rezultati.pdf
+Permalink
+See this post in context
 Obaveštenja -> Распоред полагања испита (Септембар 2025)
 by Vladan Mihajlović - Monday, 29 September 2025, 7:51 AM
 Распоред полагања писаног дела испита по просторијама из предмета Објектно оријентисано програмирање у септембарском испитном року наставне 2024/2025, године је следећи:
@@ -87,11 +94,6 @@ by Aleksandar Milenkovic - Monday, 2 December 2024, 3:44 PM
 Обавештење
 Рачунске вежбе из предмета које су заказане за четвртак, 5. децембра, неће бити одржане ове недеље.
 Потребно је да се студенти из тог термина прерасподеле у преостале термине у овој недељи (уторак, среда и петак).
-Permalink
-See this post in context
-Obaveštenja -> OOP - Elektronika
-by Anđelija Đorđević - Monday, 2 December 2024, 10:45 AM
-Zbog molbe studenata laboratorijske vežbe (za smer Elektronika) koje su planirane za 4. decembar održaće se 5. decembra.
 Permalink
 See this post in context
 1
