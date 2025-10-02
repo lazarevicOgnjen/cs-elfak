@@ -1,11 +1,16 @@
 Advanced search...
 Forums
-Search results: 11
+Search results: 12
 1
 (current)
 2
 »
 Next page
+Obaveštenja -> Java rezultati - Septembar 2025
+by Martin Jovanović - Thursday, 2 October 2025, 5:30 AM
+Ko želi da pogleda svoj rad neka mi se javi mejlom da mu pošaljem.
+Permalink
+See this post in context
 Obaveštenja -> Septembarski rok 2025 - Raspored polaganja pismenog dela ispita
 by Nikola Đorđević - Friday, 26 September 2025, 3:05 PM
 Raspored polaganja pismenog dela ispita u septembarskom roku je sledeći:
@@ -56,12 +61,6 @@ See this post in context
 Obaveštenja -> Usmeni deo ispita - januarski rok 2025.
 by Nikola Đorđević - Friday, 5 September 2025, 3:35 PM
 Usmeni deo ispita će biti održan u ponedeljak, 08.09.2025, od 12č u amfiteatru A1.
-Permalink
-See this post in context
-Obaveštenja -> Poeni iz Jave - Januar 2025
-by Martin Jovanović - Friday, 5 September 2025, 2:15 AM
-U prilogu su poeni za Javu u januarskom roku 2025. Ko želi da pogleda rad neka mi se javi mejlom.
-PJ 2025-01 poeni Java.pdf
 Permalink
 See this post in context
 1
