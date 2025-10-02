@@ -1,11 +1,17 @@
 Advanced search...
 Forums
-Search results: 12
+Search results: 13
 1
 (current)
 2
 »
 Next page
+Obaveštenja -> Drugi termin za usmeni deo ispita - Septembar 2025
+by Suzana Stojkovic - Thursday, 2 October 2025, 5:58 PM
+Usmeni deo ispita će se održati u petak 3.10.2025. od 14:00 sati.
+Mesto održavanja ispita biće objavljeno naknadno.
+Permalink
+See this post in context
 Obaveštenja -> Java rezultati - Septembar 2025
 by Martin Jovanović - Thursday, 2 October 2025, 5:30 AM
 Ko želi da pogleda svoj rad neka mi se javi mejlom da mu pošaljem.
@@ -56,11 +62,6 @@ See this post in context
 Obaveštenja -> Junkski rok 2025 - prijava dela ispita koji se polaže
 by Nikola Đorđević - Monday, 8 September 2025, 7:45 PM
 Studenti koji polažu ispit u junskom roku treba da odaberu deo ispita koji polažu u anketi koja je dostupna na CS-u. Anketa je otvorena do subote, 13.09.2025.
-Permalink
-See this post in context
-Obaveštenja -> Usmeni deo ispita - januarski rok 2025.
-by Nikola Đorđević - Friday, 5 September 2025, 3:35 PM
-Usmeni deo ispita će biti održan u ponedeljak, 08.09.2025, od 12č u amfiteatru A1.
 Permalink
 See this post in context
 1
