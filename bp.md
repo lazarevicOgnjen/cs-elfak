@@ -1,6 +1,27 @@
 Advanced search...
 Forums
-Search results: 10
+Search results: 12
+1
+(current)
+2
+»
+Next page
+News forum -> Резултати испита - СЕПТЕМБАР 2025 -> Преглед освојених поена и предлог оцена - СЕПТЕМБАР 2025
+by Leonid Stoimenov - Friday, 3 October 2025, 6:39 PM
+У прилогу је преглед освојених поена и предлог  оцена за студенте који су полагали неки део у испитном року СЕПТЕМБАР. 
+BP SEP 25 ocene.pdf
+Permalink
+Show parent
+See this post in context
+News forum -> Резултати испита - СЕПТЕМБАР 2025
+by Leonid Stoimenov - Friday, 3 October 2025, 5:58 PM
+У прилогу су резултати испита за испитни рок СЕПТЕМБАР.
+  Објавићу вам ускоро и коначан број освојених поена са урачунатим поенима из претходних рокова.
+Упис оцена је у уторак, 7.10.25. у 10:00 у просторији М2-2. 
+Радове можете да погледате у истом термину. 
+BP-septembar.pdf
+Permalink
+See this post in context
 News forum -> Raspored studenata po salama - septembarski ispitni rok (2024/2025)
 by Milena Frtunić Gligorijević - Tuesday, 23 September 2025, 8:20 PM
 Poštovane koleginice i kolege,
@@ -84,23 +105,8 @@ Pošto je bilo dosta pitanja mailom, da vam napišem dodatna objašnjenja u vezi
 Permalink
 Show parent
 See this post in context
-News forum -> Način polaganja ispita u školskoj 2024/25
-by Leonid Stoimenov - Friday, 13 June 2025, 12:47 PM
-Zbog izmenjenih okolnosti realizacije nastave, za školsku 2024/25 godinu izvršene su korekcije načina polaganja ispita.
-- Laboratorijske vežbe su odrađene i svi studenti koji su ih odradili mogu da polažu ispit. Kao što znate, lab vežbe se ne boduju.
-- Kolokvijum P1 koji ste uradili se važi do prvog ispitnog roka za narednu generaciju (Januar 2026)
-- Kolokvijum T1 možete da polažete u nekom od ispitnih rokova
-- Kolokvijum T2 i P2 polažete u ispitnom roku
-- U ispitnom roku možete da polažete deo koji želite da polažete (T1, T2, P1, P2) ili ispit u celini. 
-- Uslov za polaganje T2 je položen T1 u nekom od prethodnih rokova.
-- Uslov za polaganje P2 je položen P1 u nekom od prethodnih rokova. 
-- Položen kolokvijum važi do prvog ispitnog roka za narednu generaciju (Januar 2026). Ukoliko do tada ne položite ispit, moraćete da polažete ispit u celini. 
-Permalink
-See this post in context
-News forum -> Nadoknada nastave
-by Leonid Stoimenov - Saturday, 24 May 2025, 12:21 AM
-U skladu sa odlukom Nastavno-naučnog veća, nadoknada nastave se odvija online preko MS Teams kanala za predmet Baze podataka.
-Prvi termin je u sredu, 28.5.25. u 10:15.
-Svi materijali, obaveštenja, rezultati i sl. se objavljuju ovde, preko odgovarajućeg foruma. 
-Permalink
-See this post in context
+1
+(current)
+2
+»
+Next page
