@@ -6,21 +6,21 @@ Search results: 12
 2
 »
 Next page
+News forum -> Резултати испита - СЕПТЕМБАР 2025
+by Leonid Stoimenov - Friday, 3 October 2025, 5:58 PM
+У прилогу су резултати испита за испитни рок СЕПТЕМБАР.
+  Објавићу вам ускоро и коначан број освојених поена са урачунатим поенима из претходних рокова.
+Упис оцена је у уторак, 7.10.25. среду, 8.10.25. у 10:00 у просторији М2-2. 
+Радове можете да погледате у истом термину. 
+BP-septembar.pdf
+Permalink
+See this post in context
 News forum -> Резултати испита - СЕПТЕМБАР 2025 -> Преглед освојених поена и предлог оцена - СЕПТЕМБАР 2025
 by Leonid Stoimenov - Friday, 3 October 2025, 6:39 PM
 У прилогу је преглед освојених поена и предлог  оцена за студенте који су полагали неки део у испитном року СЕПТЕМБАР. 
 BP SEP 25 ocene.pdf
 Permalink
 Show parent
-See this post in context
-News forum -> Резултати испита - СЕПТЕМБАР 2025
-by Leonid Stoimenov - Friday, 3 October 2025, 5:58 PM
-У прилогу су резултати испита за испитни рок СЕПТЕМБАР.
-  Објавићу вам ускоро и коначан број освојених поена са урачунатим поенима из претходних рокова.
-Упис оцена је у уторак, 7.10.25. у 10:00 у просторији М2-2. 
-Радове можете да погледате у истом термину. 
-BP-septembar.pdf
-Permalink
 See this post in context
 News forum -> Raspored studenata po salama - septembarski ispitni rok (2024/2025)
 by Milena Frtunić Gligorijević - Tuesday, 23 September 2025, 8:20 PM
