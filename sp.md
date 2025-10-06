@@ -1,11 +1,20 @@
 Advanced search...
 Forums
-Search results: 14
+Search results: 15
 1
 (current)
 2
 »
 Next page
+Forum novosti -> Резултати писменог дела испита у септембарском испитном року 2025
+by Nikola Davidović - Monday, 6 October 2025, 2:34 PM
+Поштоване колегинице и колеге, 
+У прилогу су резултати писменог дела испита у септембарском испитном року 2025. Професор Стоименов ће на основу ових резултата објавити коначни списак са предлогом оцена.
+Поздрав
+
+SP 2025 Sep Bodovi.pdf
+Permalink
+See this post in context
 Forum novosti -> Делимични резултати испита (Т део) - СЕПТЕМБАР 2025
 by Leonid Stoimenov - Wednesday, 1 October 2025, 11:43 AM
 У прилогу су резултати испита за Т део за СЕПТЕМБАР за студенте који су у овом року излазили на испит.
@@ -102,14 +111,6 @@ by Leonid Stoimenov - Tuesday, 9 September 2025, 12:46 PM
 Радове можете да погледате у истом термину.
 
 SP JAN 25.pdf
-Permalink
-See this post in context
-Forum novosti -> Резултати писменог дела испита у јануарском испитном року
-by Nikola Davidović - Monday, 8 September 2025, 10:12 AM
-Поштоване колегинице и колеге,
-У прилогу су резултати писменог дела испита из предмета Структуре података из јануарског испитног рока 2025. Професор ће на основу ових резултата предложити коначне оцене.
-Поздрав
-SP 2025 Jan Bodovi.xlsx
 Permalink
 See this post in context
 1
