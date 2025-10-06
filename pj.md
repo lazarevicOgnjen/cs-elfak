@@ -1,11 +1,16 @@
 Advanced search...
 Forums
-Search results: 13
+Search results: 14
 1
 (current)
 2
 »
 Next page
+Obaveštenja -> Oktobarski rok 2025 - prijava dela ispita koji se polaže
+by Nikola Đorđević - Monday, 6 October 2025, 4:42 PM
+Studenti koji polažu ispit u oktobarskom roku treba da odaberu deo ispita koji polažu u anketi koja je dostupna na CS-u. Anketa je otvorena do četvrtka, 09.10.2025. Uslov za polaganje usmenog dela ispita je prethodno položeni pismeni deo ispita.
+Permalink
+See this post in context
 Obaveštenja -> Drugi termin za usmeni deo ispita - Septembar 2025
 by Suzana Stojkovic - Thursday, 2 October 2025, 5:58 PM
 Usmeni deo ispita će se održati u petak 3.10.2025. od 14:00 sati.
@@ -57,11 +62,6 @@ Raspored polaganja pismenog dela ispita u junskom roku je sledeći:
 E4 - broj indeksa <= 19693
 E3 - broj indeksa >= 19696
 
-Permalink
-See this post in context
-Obaveštenja -> Junkski rok 2025 - prijava dela ispita koji se polaže
-by Nikola Đorđević - Monday, 8 September 2025, 7:45 PM
-Studenti koji polažu ispit u junskom roku treba da odaberu deo ispita koji polažu u anketi koja je dostupna na CS-u. Anketa je otvorena do subote, 13.09.2025.
 Permalink
 See this post in context
 1
