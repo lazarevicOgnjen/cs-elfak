@@ -1,6 +1,13 @@
 Advanced search...
 Forums
-Search results: 5
+Search results: 6
+Obaveštenja -> Rezultati ispita u oktobarskom ispitnom roku
+by Anđelija Đorđević - Thursday, 9 October 2025, 10:54 AM
+U prilogu se nalaze rezultati oktobarskog ispitnog roka.
+Upis ocena i gledanje radova održaće se u petak, 10. oktobara u 12.30h u laboratoriji 533.
+OOProj - oktobarski rok 2025.pdf
+Permalink
+See this post in context
 Obaveštenja -> Rezultati ispita u septembarskom ispitnom roku
 by Anđelija Đorđević - Wednesday, 24 September 2025, 5:09 PM
 U prilogu se nalaze rezultati ispita u septembarskom ispitnom roku.
