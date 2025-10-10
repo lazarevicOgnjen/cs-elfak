@@ -1,11 +1,23 @@
 Advanced search...
 Forums
-Search results: 20
+Search results: 21
 1
 (current)
 2
+3
 »
 Next page
+Obaveštenja -> Otkobar - raspored polaganja
+by Aleksandar Veljanovski - Friday, 10 October 2025, 12:52 PM
+Распоред полагања писаног дела испита по просторијама из предмета Објектно оријентисано програмирање у октобарском испитном року наставне 2024/2025, године је следећи:
+
+  просторија 
+  број индекса студента 
+К2 ≤19700
+Е3 >19650
+
+Permalink
+See this post in context
 Obaveštenja -> Резултати испита (септембар 2025)
 by Vladan Mihajlović - Thursday, 9 October 2025, 12:45 AM
 Резултати испита из предмета Објектно оријентисано програмирање у испитном року септембар наставне 2024/2025. године налазе се у прилогу овог обавештења.
@@ -88,16 +100,9 @@ Laboratorija 79 (E3) - Studenti koji polažu ceo ispit (RII) sa brojem indeksa v
 Laboratorija 81 (E4) - Studenti koji polažu ceo ispit (RII) sa brojem indeksa većim od 19701.
 Permalink
 See this post in context
-Obaveštenja -> OOП - Први колоквијум
-by Anđelija Đorđević - Tuesday, 10 December 2024, 12:19 PM
-Први колоквијум ће се одржати у среду, 11. децембра у два термина са почетком у 14.15 и 16.15 по следећем распореду:
-
-Израда колоквијума траје сат и по времена. 
-Моле се студенти да дођу 10 минута раније.
-Permalink
-See this post in context
 1
 (current)
 2
+3
 »
 Next page
