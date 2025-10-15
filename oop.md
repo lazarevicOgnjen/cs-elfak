@@ -1,12 +1,20 @@
 Advanced search...
 Forums
-Search results: 21
+Search results: 22
 1
 (current)
 2
 3
 »
 Next page
+Obaveštenja -> Oktobar - usmeni deo
+by Aleksandar Veljanovski - Wednesday, 15 October 2025, 11:22 AM
+Usmeni deo ispita zakazan je za ponedeljak 20.09.2025. godine u 13:20 u 525.
+
+Rezultati pisanog dela su u prilogu.
+OOP Oktobar 2025 - Rezultati zadaci.pdf
+Permalink
+See this post in context
 Obaveštenja -> Otkobar - raspored polaganja
 by Aleksandar Veljanovski - Friday, 10 October 2025, 12:52 PM
 Распоред полагања писаног дела испита по просторијама из предмета Објектно оријентисано програмирање у октобарском испитном року наставне 2024/2025, године је следећи:
@@ -87,17 +95,6 @@ U prilogu se nalazi spisak studenata koji su položili pisani deo ispita u janua
 Usmeni deo ispita održaće se u petak, 5. septembra, u 14h, u prostoriji K1. 
 
 OOP- januarski rok 2025 - Polozeni pisani deo ispita.pdf
-Permalink
-See this post in context
-Obaveštenja -> OOP - Raspored polaganja drugog kolokvijuma i ispita u januarskom ispitnom roku
-by Anđelija Đorđević - Wednesday, 3 September 2025, 7:15 AM
-U nastavku se nalazi raspored polaganja drugog kolokvijuma i celog ispita u januarskom ispitnom roku.
-Laboratorija 522 - Studenti koji polažu drugi kolokvijum i imaju indeks manji od 19820.
-Laboratorija 521 - Studenti koji polažu drugi kolokvijum i imaju indeks veći od 19820.
-Laboratorija 521 - Studenti koji polažu ceo ispit na smeru Elektronika.
-Laboratorija 521 - Studenti koji polažu ceo ispit (RII) sa brojem indeksa manjim od 18600.
-Laboratorija 79 (E3) - Studenti koji polažu ceo ispit (RII) sa brojem indeksa većim od 18600 i manjim od 19701.
-Laboratorija 81 (E4) - Studenti koji polažu ceo ispit (RII) sa brojem indeksa većim od 19701.
 Permalink
 See this post in context
 1
