@@ -1,11 +1,17 @@
 Advanced search...
 Forums
-Search results: 15
+Search results: 16
 1
 (current)
 2
 »
 Next page
+Obaveštenja -> Java rezultati - Oktobar 2025
+by Martin Jovanović - Thursday, 16 October 2025, 7:28 AM
+Ko želi da pogleda rad neka mi se javi mejlom da mu pošaljem.
+PJ Java 2025-10 Rezultati v02.pdf
+Permalink
+See this post in context
 Obaveštenja -> Raspored polaganja pismenog dela ispita - oktobarski rok
 by Nikola Đorđević - Friday, 10 October 2025, 2:02 PM
 Poštovane koleginice i kolege,
@@ -58,11 +64,6 @@ Obaveštenja -> Java rezultati - Jun 2025
 by Martin Jovanović - Friday, 19 September 2025, 9:59 AM
 Ko želi da pogleda rad neka mi se javi mejlom da mu pošaljem projekat.
 Java poeni 2025-06.pdf
-Permalink
-See this post in context
-Obaveštenja -> Junski rok 2025 - usmeni deo ispita
-by Nikola Đorđević - Sunday, 14 September 2025, 1:04 PM
-Usmeni deo ispita u junskom roku će biti organizovan u jednom terminu, na kraju ispitnog roka.
 Permalink
 See this post in context
 1
