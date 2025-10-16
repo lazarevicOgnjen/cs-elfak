@@ -1,11 +1,16 @@
 Advanced search...
 Forums
-Search results: 16
+Search results: 17
 1
 (current)
 2
 »
 Next page
+Obaveštenja -> Usmeni deo ispita - Oktobar 2025
+by Suzana Stojkovic - Thursday, 16 October 2025, 12:18 PM
+Usmeni deo ispita će se održati u petak 17.10. u 14:00 sati u sali K1.
+Permalink
+See this post in context
 Obaveštenja -> Java rezultati - Oktobar 2025
 by Martin Jovanović - Thursday, 16 October 2025, 7:28 AM
 Ko želi da pogleda rad neka mi se javi mejlom da mu pošaljem.
@@ -58,12 +63,6 @@ See this post in context
 Obaveštenja -> Usmeni deo ispita - Jun 2025.
 by Suzana Stojkovic - Friday, 19 September 2025, 8:06 PM
 Usmeni deo ispita će se održati u ponedeljak 22.9.2025. od 15:00 sati u sali K4.
-Permalink
-See this post in context
-Obaveštenja -> Java rezultati - Jun 2025
-by Martin Jovanović - Friday, 19 September 2025, 9:59 AM
-Ko želi da pogleda rad neka mi se javi mejlom da mu pošaljem projekat.
-Java poeni 2025-06.pdf
 Permalink
 See this post in context
 1
