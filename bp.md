@@ -1,11 +1,26 @@
 Advanced search...
 Forums
-Search results: 13
+Search results: 15
 1
 (current)
 2
 »
 Next page
+News forum -> Rezultati ispita - OKTOBAR 2025. -> Upis ocena - OKTOBAR 2025
+by Leonid Stoimenov - Friday, 17 October 2025, 2:26 PM
+U prilogu je pregled osvojenih poena i predlog ocena.
+Upis ocena je u ponedeljak, 20.10.2025 u 12h u prostoriji 331.
+BP OKT 25 ocene.pdf
+Permalink
+Show parent
+See this post in context
+News forum -> Rezultati ispita - OKTOBAR 2025.
+by Leonid Stoimenov - Friday, 17 October 2025, 2:25 PM
+U prilogu su rezultati ispita za OKTOBAR 2025.
+Radove možete da pogledate u ponedeljak, 20.10.25 u 12h u prostoroji 331.
+Rez OKT.pdf
+Permalink
+See this post in context
 News forum -> Резултати испита - СЕПТЕМБАР 2025 -> Odgovor: Резултати испита - СЕПТЕМБАР 2025
 by Leonid Stoimenov - Tuesday, 7 October 2025, 2:45 PM
 Уколико не гледате рад и сагласни сте са предлогом оцене, можете да дођете на упис у 9:30.
@@ -84,22 +99,6 @@ by Leonid Stoimenov - Tuesday, 9 September 2025, 1:21 PM
 Радове можете да погледате у истом термину
 BP JAN 25.pdf
 Permalink
-See this post in context
-News forum -> Raspored studenata po salama - januarski ispitni rok (2024/2025)
-by Milena Frtunić Gligorijević - Friday, 29 August 2025, 8:52 AM
-Poštovane koleginice i kolege,
-Raspored studenata po salama za polaganje ispita u januarskom ispitnom roku, 29.08.2025. godine, je sledeći:
-sala A1: 17292<broj indeksa<19694
-sala A2: 19693<broj indeksa<19900
-sala K1: 19910<broj indeksa<20027
-Permalink
-See this post in context
-News forum -> Način polaganja ispita u školskoj 2024/25 -> Odgovor: Način polaganja ispita u školskoj 2024/25
-by Leonid Stoimenov - Monday, 25 August 2025, 3:04 PM
-Dodatno, vezano za način polaganja P2 - sve delove polažete na papiru, pa i P2.
-U ispitnom roku možete da polažete jedan, dva, tri dela ili ceo ispit. Naravno, vodite računa o uslovima.
-Permalink
-Show parent
 See this post in context
 1
 (current)
