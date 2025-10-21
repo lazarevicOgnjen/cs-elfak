@@ -1,11 +1,17 @@
 Advanced search...
 Forums
-Search results: 19
+Search results: 20
 1
 (current)
 2
 »
 Next page
+Obaveštenja -> Raspored polaganja pismenog dela ispita - aprilski rok
+by Nikola Đorđević - Tuesday, 21 October 2025, 3:49 PM
+Poštovane koleginice i kolege,
+Svi studenti polažu pismeni deo ispita u aprilskom roku u laboratoriji E4.
+Permalink
+See this post in context
 Obaveštenja -> Prvi termin za usmeni deo ispita u aprilskom roku
 by Suzana Stojkovic - Tuesday, 21 October 2025, 12:57 PM
 Usmeni deo ispita, za studente koji su u anketi izabrali da polažu usmeni deo u terminu pismenog, će se održati u sredu 22.10..2025. u 13:00 sati u nekoj od učionica na petom spratu. 
@@ -58,11 +64,6 @@ Raspored polaganja pismenog dela ispita u septembarskom roku je sledeći:
 K2 - broj indeksa <= 19788
 E4 - broj indeksa >= 19809.
 
-Permalink
-See this post in context
-Obaveštenja -> Prvi termin za usmeni deo ispita u septembarskom roku
-by Suzana Stojkovic - Friday, 26 September 2025, 9:56 AM
-Usmeni deo ispita, za studente koji su u anketi izabrali da polažu usmeni deo u terminu pismenog, će se održati u subotu 27.9.2025. u 11:00 sati u učionici 531. 
 Permalink
 See this post in context
 1
