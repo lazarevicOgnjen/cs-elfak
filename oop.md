@@ -1,12 +1,18 @@
 Advanced search...
 Forums
-Search results: 23
+Search results: 24
 1
 (current)
 2
 3
 »
 Next page
+Obaveštenja -> Raspored polaganja ispita u aprilskom ispitnom roku
+by Anđelija Đorđević - Wednesday, 22 October 2025, 12:35 PM
+Studenti sa modula Elektronika polažu ispit u laboratoriji E4.
+Studenti sa modula Računarstvo i informatika čiji je broj indeksa manji od 19620 ispit polažu u E4, ostali studenti polažu u laboratoriji E3.
+Permalink
+See this post in context
 Obaveštenja -> Oktobar - rezultati
 by Aleksandar Veljanovski - Tuesday, 21 October 2025, 1:50 PM
 Резултати испита из предмета Објектно оријентисано програмирање у испитном року октобар наставне 2024/2025. године налазе се у прилогу овог обавештења.
@@ -85,15 +91,6 @@ E4 19670 >= Indeks <=19880
 K2 Indeks > 19880
 K2 Elektronika
 
-Permalink
-See this post in context
-Obaveštenja -> OOP - Rezultati januarskog ispitnog roka
-by Anđelija Đorđević - Tuesday, 9 September 2025, 8:07 AM
-U prilogu se nalaze rezultati januarskog ispitnog roka.
-
-Podsetnik: Upis ocena i gledanje radova održaće se u utorak, 9.9.2025, u 11.30h u laboratoriji 357.
-
-OOP-januarski rok 2025-Rezultati ispita.pdf
 Permalink
 See this post in context
 1
