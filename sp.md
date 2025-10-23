@@ -1,12 +1,36 @@
 Advanced search...
 Forums
-Search results: 22
+Search results: 23
 1
 (current)
 2
 3
 »
 Next page
+Forum novosti -> Резултати испита - ОКТОБАР 2025 -> Усмени део испита, распоред полагања - ОКТОБАР 2025
+by Leonid Stoimenov - Thursday, 23 October 2025, 4:37 PM
+10:30
+19107 Катарина Дуцић
+19243 Никола Милошевић
+19298 Илија Новковић
+
+10:50
+19359 Лука Спасић
+19600 Павле Дурлић
+19624 Вук Живковић
+
+11:10
+19693 Ђорђе Китановић
+19707 Лазар Крстић
+19832 Ђорђе Пејчић
+
+11:30
+19883 Емилија Ристић
+19914 Огњен Стаменковић
+
+Permalink
+Show parent
+See this post in context
 Forum novosti -> Резултати испита - ОКТОБАР 2025
 by Leonid Stoimenov - Wednesday, 22 October 2025, 2:26 PM
 У прилогу су резултати испита за испитни рок ОКТОБАР 2025.
@@ -118,21 +142,6 @@ by Leonid Stoimenov - Wednesday, 1 October 2025, 11:43 AM
 
 SP SEP 25 - T deo.pdf
 Permalink
-See this post in context
-Forum novosti -> Резултати испита - ЈУН 2025 -> Распоред полагања усменог дела испита - ЈУН 2025
-by Leonid Stoimenov - Wednesday, 24 September 2025, 5:54 PM
-10:00
-19548 Андрија Бојић
-19584 Данило Денић
-19635 Снежана Здравковић
-
-10:20
-19649 Лена Исаку
-19801 Богдан Николић
-19939 Филип Стевановић
-
-Permalink
-Show parent
 See this post in context
 1
 (current)
