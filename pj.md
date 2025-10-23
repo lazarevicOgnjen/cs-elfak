@@ -1,11 +1,20 @@
 Advanced search...
 Forums
-Search results: 20
+Search results: 21
 1
 (current)
 2
+3
 »
 Next page
+Obaveštenja -> Java rezultati - April 2025
+by Martin Jovanović - Thursday, 23 October 2025, 1:45 AM
+Ko želi da pogleda rad neka mi se javi mejlom da mu pošaljem.
+Koristite samo moj zvanični fakultetski mejl: martin.jovanovic@elfak.ni.ac.rs
+Nemojte koristiti nikakve aliase (tipa martin@elfak.rs i slično) i nemojte mi slati poruke na Teams.
+Samo na default fakultetski mejl.
+Permalink
+See this post in context
 Obaveštenja -> Raspored polaganja pismenog dela ispita - aprilski rok
 by Nikola Đorđević - Tuesday, 21 October 2025, 3:49 PM
 Poštovane koleginice i kolege,
@@ -58,16 +67,9 @@ by Martin Jovanović - Thursday, 2 October 2025, 5:30 AM
 Ko želi da pogleda svoj rad neka mi se javi mejlom da mu pošaljem.
 Permalink
 See this post in context
-Obaveštenja -> Septembarski rok 2025 - Raspored polaganja pismenog dela ispita
-by Nikola Đorđević - Friday, 26 September 2025, 3:05 PM
-Raspored polaganja pismenog dela ispita u septembarskom roku je sledeći:
-K2 - broj indeksa <= 19788
-E4 - broj indeksa >= 19809.
-
-Permalink
-See this post in context
 1
 (current)
 2
+3
 »
 Next page
