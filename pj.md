@@ -1,12 +1,18 @@
 Advanced search...
 Forums
-Search results: 21
+Search results: 22
 1
 (current)
 2
 3
 »
 Next page
+Obaveštenja -> Usmeni deo ispita - aprilski rok
+by Nikola Đorđević - Thursday, 23 October 2025, 12:46 PM
+Poštovane koleginice i kolege, 
+Usmeni deo ispita u aprilskom roku biće održan u petak, 24.10.2025, od 13.15 u sali K5.
+Permalink
+See this post in context
 Obaveštenja -> Java rezultati - April 2025
 by Martin Jovanović - Thursday, 23 October 2025, 1:45 AM
 Ko želi da pogleda rad neka mi se javi mejlom da mu pošaljem.
@@ -60,11 +66,6 @@ Obaveštenja -> Drugi termin za usmeni deo ispita - Septembar 2025
 by Suzana Stojkovic - Thursday, 2 October 2025, 5:58 PM
 Usmeni deo ispita će se održati u petak 3.10.2025. od 14:00 sati.
 Mesto održavanja ispita biće objavljeno naknadno.
-Permalink
-See this post in context
-Obaveštenja -> Java rezultati - Septembar 2025
-by Martin Jovanović - Thursday, 2 October 2025, 5:30 AM
-Ko želi da pogleda svoj rad neka mi se javi mejlom da mu pošaljem.
 Permalink
 See this post in context
 1
