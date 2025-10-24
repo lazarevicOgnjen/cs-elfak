@@ -1,19 +1,12 @@
 Advanced search...
 Forums
-Search results: 23
+Search results: 22
 1
 (current)
 2
 3
 »
 Next page
-Obaveštenja -> Rezultati ispita - April 2025
-by Suzana Stojkovic - Thursday, 23 October 2025, 8:00 PM
-Rezultati se nalaze u priloženom dokumentu.
-Radovi se mogu pogledati i ocene upisati u petak 24.10.2025. u 12:30 sati, u kabinetu 530.
-PP April 2025.pdf
-Permalink
-See this post in context
 Obaveštenja -> Usmeni deo ispita - aprilski rok
 by Nikola Đorđević - Thursday, 23 October 2025, 12:46 PM
 Poštovane koleginice i kolege, 
@@ -67,6 +60,12 @@ See this post in context
 Obaveštenja -> Oktobarski rok 2025 - prijava dela ispita koji se polaže
 by Nikola Đorđević - Monday, 6 October 2025, 4:42 PM
 Studenti koji polažu ispit u oktobarskom roku treba da odaberu deo ispita koji polažu u anketi koja je dostupna na CS-u. Anketa je otvorena do četvrtka, 09.10.2025. Uslov za polaganje usmenog dela ispita je prethodno položeni pismeni deo ispita.
+Permalink
+See this post in context
+Obaveštenja -> Drugi termin za usmeni deo ispita - Septembar 2025
+by Suzana Stojkovic - Thursday, 2 October 2025, 5:58 PM
+Usmeni deo ispita će se održati u petak 3.10.2025. od 14:00 sati.
+Mesto održavanja ispita biće objavljeno naknadno.
 Permalink
 See this post in context
 1
