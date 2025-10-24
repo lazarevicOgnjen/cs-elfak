@@ -3,7 +3,7 @@ from dhooks import Webhook, Embed, File
 
 image2_path = 'lp.png'
 
-WEBHOOK_URL = [os.getenv('WEBHOOK_MAIN')]
+WEBHOOK_URL = [os.getenv('LP')]
 for url in WEBHOOK_URL:
     hook = Webhook(url)
 
