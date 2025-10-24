@@ -1,7 +1,9 @@
 name: elfak bot
 
 on:
-  workflow_dispatch:  # Allow manual trigger
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
