@@ -1,12 +1,19 @@
 Advanced search...
 Forums
-Search results: 24
+Search results: 25
 1
 (current)
 2
 3
 »
 Next page
+Obaveštenja -> Aprilski ispitni rok - Rezultati pisanog i termin usmenog dela ispita
+by Anđelija Đorđević - Friday, 24 October 2025, 11:33 AM
+U prilogu se nalaze rezultati pisanog dela ispita u aprilskom ispitnom roku.
+Usmeni deo ispita biće održan u utorak, 28. oktobra, u 13.15h u prostoriji K4.
+OOP april 2025 rezultati pisanog dela.pdf
+Permalink
+See this post in context
 Obaveštenja -> Raspored polaganja ispita u aprilskom ispitnom roku
 by Anđelija Đorđević - Wednesday, 22 October 2025, 12:35 PM
 Studenti sa modula Elektronika polažu ispit u laboratoriji E4.
@@ -81,16 +88,6 @@ U prilogu se nalazi spisak studenata koji su položili pisani deo ispita u janua
 Usmeni deo ispita održaće se u petak, 19. septembra, u 13:30, u prostoriji K3. 
 
 OOP Jun 2025 - rezultati zadaci.pdf
-Permalink
-See this post in context
-Obaveštenja -> Raspored polaganja ispita - Jun
-by Aleksandar Veljanovski - Monday, 15 September 2025, 2:19 PM
-Raspored polaganja ispita:
-E3 Indeks < 19670
-E4 19670 >= Indeks <=19880
-K2 Indeks > 19880
-K2 Elektronika
-
 Permalink
 See this post in context
 1
