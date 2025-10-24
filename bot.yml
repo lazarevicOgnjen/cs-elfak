@@ -1,0 +1,165 @@
+name: elfak bot
+
+on:
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Setup Python environment
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      # Step 3: Install system dependencies
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libnss3
+
+      # Step 4: Verify installations
+      - name: Verify Chromium and Chromedriver installation
+        run: |
+          echo "Checking Chromium installation..."
+          google-chrome --version
+          which google-chrome
+
+          echo "Checking Chromedriver installation..."
+          chromedriver --version
+          which chromedriver
+
+      # Step 5: Install Python dependencies
+      - name: Install Python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run main script
+        env:
+          MAIL: ${{ secrets.MAIL }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python main.py
+
+      - name: Commit changes
+        uses: lazarevicOgnjen/git-auto-commit-action@v6
+        with:
+          commit_message: Update bp.md
+          file_pattern: bp.md oop.md aor1.md lp.md oopj.md pj.md sp.md
+            
+      - name: Pull latest changes
+        run: git pull origin main
+          
+      - name: Check changes in bp.md
+        id: check_bp
+        run: |
+          if git diff --quiet HEAD~1 HEAD -- bp.md; then
+            echo "BP_CHANGED=false" >> $GITHUB_OUTPUT
+          else
+            echo "BP_CHANGED=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Check changes in sp.md
+        id: check_sp
+        run: |
+          if git diff --quiet HEAD~1 HEAD -- sp.md; then
+            echo "SP_CHANGED=false" >> $GITHUB_OUTPUT
+          else
+            echo "SP_CHANGED=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Check changes in pj.md
+        id: check_pj
+        run: |
+          if git diff --quiet HEAD~1 HEAD -- pj.md; then
+            echo "PJ_CHANGED=false" >> $GITHUB_OUTPUT
+          else
+            echo "PJ_CHANGED=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Check changes in oopj.md
+        id: check_oopj
+        run: |
+          if git diff --quiet HEAD~1 HEAD -- oopj.md; then
+            echo "OOPJ_CHANGED=false" >> $GITHUB_OUTPUT
+          else
+            echo "OOPJ_CHANGED=true" >> $GITHUB_OUTPUT
+          fi
+          
+      - name: Check changes in lp.md
+        id: check_lp
+        run: |
+          if git diff --quiet HEAD~1 HEAD -- lp.md; then
+            echo "LP_CHANGED=false" >> $GITHUB_OUTPUT
+          else
+            echo "LP_CHANGED=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Check changes in oop.md
+        id: check_oop
+        run: |
+          if git diff --quiet HEAD~1 HEAD -- oop.md; then
+            echo "OOP_CHANGED=false" >> $GITHUB_OUTPUT
+          else
+            echo "OOP_CHANGED=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Check changes in aor1.md
+        id: check_aor1
+        run: |
+          if git diff --quiet HEAD~1 HEAD -- aor1.md; then
+            echo "AOR1_CHANGED=false" >> $GITHUB_OUTPUT
+          else
+            echo "AOR1_CHANGED=true" >> $GITHUB_OUTPUT
+          fi
+
+
+      - name: Discord bot notification
+        if: steps.check_pj.outputs.PJ_CHANGED == 'true'
+        env:
+          WEBHOOK_MAIN: ${{ secrets.WEBHOOK_MAIN }}
+        run: python pj.py
+  
+      - name: Discord bot notification
+        if: steps.check_sp.outputs.SP_CHANGED == 'true'
+        env:
+          WEBHOOK_MAIN: ${{ secrets.WEBHOOK_MAIN }}
+        run: python sp.py
+      
+      - name: Discord bot notification
+        if: steps.check_oopj.outputs.OOPJ_CHANGED == 'true'
+        env:
+          WEBHOOK_MAIN: ${{ secrets.WEBHOOK_MAIN }}
+        run: python oopj.py
+
+      - name: Discord bot notification
+        if: steps.check_bp.outputs.BP_CHANGED == 'true'
+        env:
+          WEBHOOK_MAIN: ${{ secrets.WEBHOOK_MAIN }}
+        run: python bp.py
+
+      - name: Discord bot notification
+        if: steps.check_lp.outputs.LP_CHANGED == 'true'
+        env:
+          WEBHOOK_MAIN: ${{ secrets.WEBHOOK_MAIN }}
+        run: python lp.py
+
+      - name: Discord bot notification
+        if: steps.check_oop.outputs.OOP_CHANGED == 'true'
+        env:
+          WEBHOOK_MAIN: ${{ secrets.WEBHOOK_MAIN }}
+        run: python oop.py
+
+      - name: Discord bot notification
+        if: steps.check_aor1.outputs.AOR1_CHANGED == 'true'
+        env:
+          WEBHOOK_MAIN: ${{ secrets.WEBHOOK_MAIN }}
+        run: python aor1.py
+
+      
