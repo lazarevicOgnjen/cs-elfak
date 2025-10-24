@@ -123,43 +123,43 @@ jobs:
       - name: Discord bot notification
         if: steps.check_pj.outputs.PJ_CHANGED == 'true'
         env:
-          WEBHOOK_MAIN: ${{ secrets.WEBHOOK_MAIN }}
+          WEBHOOK_MAIN: ${{ secrets.PJ }}
         run: python pj.py
   
       - name: Discord bot notification
         if: steps.check_sp.outputs.SP_CHANGED == 'true'
         env:
-          WEBHOOK_MAIN: ${{ secrets.WEBHOOK_MAIN }}
+          WEBHOOK_MAIN: ${{ secrets.SP }}
         run: python sp.py
       
       - name: Discord bot notification
         if: steps.check_oopj.outputs.OOPJ_CHANGED == 'true'
         env:
-          WEBHOOK_MAIN: ${{ secrets.WEBHOOK_MAIN }}
+          WEBHOOK_MAIN: ${{ secrets.OOPJ }}
         run: python oopj.py
 
       - name: Discord bot notification
         if: steps.check_bp.outputs.BP_CHANGED == 'true'
         env:
-          WEBHOOK_MAIN: ${{ secrets.WEBHOOK_MAIN }}
+          WEBHOOK_MAIN: ${{ secrets.BP }}
         run: python bp.py
 
       - name: Discord bot notification
         if: steps.check_lp.outputs.LP_CHANGED == 'true'
         env:
-          WEBHOOK_MAIN: ${{ secrets.WEBHOOK_MAIN }}
+          WEBHOOK_MAIN: ${{ secrets.LP }}
         run: python lp.py
 
       - name: Discord bot notification
         if: steps.check_oop.outputs.OOP_CHANGED == 'true'
         env:
-          WEBHOOK_MAIN: ${{ secrets.WEBHOOK_MAIN }}
+          WEBHOOK_MAIN: ${{ secrets.OOP }}
         run: python oop.py
 
       - name: Discord bot notification
         if: steps.check_aor1.outputs.AOR1_CHANGED == 'true'
         env:
-          WEBHOOK_MAIN: ${{ secrets.WEBHOOK_MAIN }}
+          WEBHOOK_MAIN: ${{ secrets.AOR1 }}
         run: python aor1.py
 
       
