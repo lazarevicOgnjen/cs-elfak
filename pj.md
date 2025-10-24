@@ -1,12 +1,17 @@
 Advanced search...
 Forums
-Search results: 22
+Search results: 23
 1
 (current)
 2
 3
 »
 Next page
+Obaveštenja -> Ispitni rok Oktobar 2 - prijava dela ispita koji se polaže
+by Nikola Đorđević - Friday, 24 October 2025, 2:43 PM
+Studenti koji polažu ispit u ispitnom roku Oktobar 2 treba da odaberu deo ispita koji polažu u anketi koja je dostupna na CS-u. Anketa je otvorena do ponedeljka, 27.10.2025. Uslov za polaganje usmenog dela ispita je prethodno položeni pismeni deo ispita.
+Permalink
+See this post in context
 Obaveštenja -> Usmeni deo ispita - aprilski rok
 by Nikola Đorđević - Thursday, 23 October 2025, 12:46 PM
 Poštovane koleginice i kolege, 
@@ -60,12 +65,6 @@ See this post in context
 Obaveštenja -> Oktobarski rok 2025 - prijava dela ispita koji se polaže
 by Nikola Đorđević - Monday, 6 October 2025, 4:42 PM
 Studenti koji polažu ispit u oktobarskom roku treba da odaberu deo ispita koji polažu u anketi koja je dostupna na CS-u. Anketa je otvorena do četvrtka, 09.10.2025. Uslov za polaganje usmenog dela ispita je prethodno položeni pismeni deo ispita.
-Permalink
-See this post in context
-Obaveštenja -> Drugi termin za usmeni deo ispita - Septembar 2025
-by Suzana Stojkovic - Thursday, 2 October 2025, 5:58 PM
-Usmeni deo ispita će se održati u petak 3.10.2025. od 14:00 sati.
-Mesto održavanja ispita biće objavljeno naknadno.
 Permalink
 See this post in context
 1
