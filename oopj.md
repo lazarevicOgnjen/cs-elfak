@@ -1,6 +1,14 @@
 Advanced search...
 Forums
-Search results: 6
+Search results: 7
+Obaveštenja -> Rezultati ispita u aprilskom ispitnom roku
+by Anđelija Đorđević - Friday, 24 October 2025, 5:13 PM
+U prilogu se nalaze rezultati aprilskog ispitnog roka.
+
+Termin upisa ocena i gledanja radova biće naknadno objavljen.
+OOProj 2025 april.pdf
+Permalink
+See this post in context
 Obaveštenja -> Rezultati ispita u oktobarskom ispitnom roku
 by Anđelija Đorđević - Thursday, 9 October 2025, 10:54 AM
 U prilogu se nalaze rezultati oktobarskog ispitnog roka.
