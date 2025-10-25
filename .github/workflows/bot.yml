@@ -47,77 +47,37 @@ jobs:
           PASSWORD: ${{ secrets.PASSWORD }}
         run: python main.py
 
+      # Check if any md files changed
+      - name: Check for real changes
+        id: changes
+        run: |
+          git add .
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      # Commit only if real changes exist
       - name: Commit changes
+        if: steps.changes.outputs.changed == 'true'
         uses: lazarevicOgnjen/git-auto-commit-action@v6
         with:
-          commit_message: Update bp.md
-          file_pattern: bp.md oop.md aor1.md lp.md oopj.md pj.md sp.md
-            
-      - name: Pull latest changes
-        run: git pull origin main
-          
-      - name: Check changes in bp.md
-        id: check_bp
-        run: |
-          if git diff --quiet HEAD~1 HEAD -- bp.md; then
-            echo "BP_CHANGED=false" >> $GITHUB_OUTPUT
-          else
-            echo "BP_CHANGED=true" >> $GITHUB_OUTPUT
-          fi
+          commit_message: Update markdown
+          file_pattern: "*.md"
 
-      - name: Check changes in sp.md
-        id: check_sp
+      # Detect which exact files changed in the commit
+      - name: Detect per-file changes
+        id: detect
+        if: steps.changes.outputs.changed == 'true'
         run: |
-          if git diff --quiet HEAD~1 HEAD -- sp.md; then
-            echo "SP_CHANGED=false" >> $GITHUB_OUTPUT
-          else
-            echo "SP_CHANGED=true" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Check changes in pj.md
-        id: check_pj
-        run: |
-          if git diff --quiet HEAD~1 HEAD -- pj.md; then
-            echo "PJ_CHANGED=false" >> $GITHUB_OUTPUT
-          else
-            echo "PJ_CHANGED=true" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Check changes in oopj.md
-        id: check_oopj
-        run: |
-          if git diff --quiet HEAD~1 HEAD -- oopj.md; then
-            echo "OOPJ_CHANGED=false" >> $GITHUB_OUTPUT
-          else
-            echo "OOPJ_CHANGED=true" >> $GITHUB_OUTPUT
-          fi
-          
-      - name: Check changes in lp.md
-        id: check_lp
-        run: |
-          if git diff --quiet HEAD~1 HEAD -- lp.md; then
-            echo "LP_CHANGED=false" >> $GITHUB_OUTPUT
-          else
-            echo "LP_CHANGED=true" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Check changes in oop.md
-        id: check_oop
-        run: |
-          if git diff --quiet HEAD~1 HEAD -- oop.md; then
-            echo "OOP_CHANGED=false" >> $GITHUB_OUTPUT
-          else
-            echo "OOP_CHANGED=true" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Check changes in aor1.md
-        id: check_aor1
-        run: |
-          if git diff --quiet HEAD~1 HEAD -- aor1.md; then
-            echo "AOR1_CHANGED=false" >> $GITHUB_OUTPUT
-          else
-            echo "AOR1_CHANGED=true" >> $GITHUB_OUTPUT
-          fi
+          for f in bp.md sp.md pj.md oopj.md lp.md oop.md aor1.md; do
+            if git diff --name-only HEAD~1 HEAD | grep -q $f; then
+              echo "${f%.md}_changed=true" >> $GITHUB_OUTPUT
+            else
+              echo "${f%.md}_changed=false" >> $GITHUB_OUTPUT
+            fi
+          done
 
 
       - name: Discord bot notification
