@@ -7,7 +7,7 @@ Search results: 23
 3
 »
 Next page
-Obaveštenja -> Ispitni rok Oktobar 2 - prijava dela ispita koji se polaže
+Obaveštenja ->. Ispitni rok Oktobar 2 - prijava dela ispita koji se polaže
 by Nikola Đorđević - Friday, 24 October 2025, 2:43 PM
 Studenti koji polažu ispit u ispitnom roku Oktobar 2 treba da odaberu deo ispita koji polažu u anketi koja je dostupna na CS-u. Anketa je otvorena do ponedeljka, 27.10.2025. Uslov za polaganje usmenog dela ispita je prethodno položeni pismeni deo ispita.
 Permalink
