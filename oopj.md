@@ -3,7 +3,7 @@ Forums
 Search results: 8
 Obaveštenja -> Upis ocena i gledanje radova u aprilskom ispitnom roku
 by Anđelija Đorđević - Sunday, 26 October 2025, 12:21 PM
-Upis ocena .i gledanje radova u aprilskom ispitnom roku održaće se u ponedeljak, 27. oktobra, u 13.30 časova, u laboratoriji 533.
+Upis ocena i gledanje radova u aprilskom ispitnom roku održaće se u ponedeljak, 27. oktobra, u 13.30 časova, u laboratoriji 533.
 Permalink
 See this post in context
 Obaveštenja -> Rezultati ispita u aprilskom ispitnom roku

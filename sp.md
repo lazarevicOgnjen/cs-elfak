@@ -1,11 +1,11 @@
 Advanced search...
 Forums
-Search results: 24.
+Search results: 24
 1
 (current)
 2
 3
-».
+»
 Next page
 Forum novosti -> Резултати писменог дела испита у априлском испитном року 2025
 by Nikola Davidović - Sunday, 26 October 2025, 10:24 PM
