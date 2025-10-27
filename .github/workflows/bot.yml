@@ -26,30 +26,20 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y libnss3
 
-      # Step 4: Verify installations
-      - name: Verify Chromium and Chromedriver installation
-        run: |
-          echo "Checking Chromium installation..."
-          google-chrome --version
-          which google-chrome
-
-          echo "Checking Chromedriver installation..."
-          chromedriver --version
-          which chromedriver
-
-      # Step 5: Install Python dependencies
+      # Step 4: Install Python packages
       - name: Install Python packages
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      # Step 5: Run main scraper
       - name: Run main script
         env:
           MAIL: ${{ secrets.MAIL }}
           PASSWORD: ${{ secrets.PASSWORD }}
         run: python main.py
 
-      # Check if any md files changed
+      # ✅ Detect if markdown files changed
       - name: Check for real changes
         id: changes
         run: |
@@ -60,7 +50,7 @@ jobs:
             echo "changed=true" >> $GITHUB_OUTPUT
           fi
 
-      # Commit only if real changes exist
+      # ✅ Commit only if changed
       - name: Commit changes
         if: steps.changes.outputs.changed == 'true'
         uses: lazarevicOgnjen/git-auto-commit-action@v6
@@ -68,7 +58,7 @@ jobs:
           commit_message: Update markdown
           file_pattern: "*.md"
 
-      # Detect which exact files changed in the commit
+      # ✅ Detect changed files
       - name: Detect per-file changes
         id: detect
         if: steps.changes.outputs.changed == 'true'
@@ -81,47 +71,46 @@ jobs:
             fi
           done
 
+      # ✅ Discord Notifications — FIXED CONDITIONS ✅
 
-      - name: Discord bot notification
-        if: steps.check_pj.outputs.PJ_CHANGED == 'true'
+      - name: PJ notification
+        if: steps.detect.outputs.pj_changed == 'true'
         env:
           PJ: ${{ secrets.PJ }}
         run: python pj.py
-  
-      - name: Discord bot notification
-        if: steps.check_sp.outputs.SP_CHANGED == 'true'
+
+      - name: SP notification
+        if: steps.detect.outputs.sp_changed == 'true'
         env:
           SP: ${{ secrets.SP }}
         run: python sp.py
-      
-      - name: Discord bot notification
-        if: steps.check_oopj.outputs.OOPJ_CHANGED == 'true'
+
+      - name: OOPJ notification
+        if: steps.detect.outputs.oopj_changed == 'true'
         env:
           OOPJ: ${{ secrets.OOPJ }}
         run: python oopj.py
 
-      - name: Discord bot notification
-        if: steps.check_bp.outputs.BP_CHANGED == 'true'
+      - name: BP notification
+        if: steps.detect.outputs.bp_changed == 'true'
         env:
           BP: ${{ secrets.BP }}
         run: python bp.py
 
-      - name: Discord bot notification
-        if: steps.check_lp.outputs.LP_CHANGED == 'true'
+      - name: LP notification
+        if: steps.detect.outputs.lp_changed == 'true'
         env:
           LP: ${{ secrets.LP }}
         run: python lp.py
 
-      - name: Discord bot notification
-        if: steps.check_oop.outputs.OOP_CHANGED == 'true'
+      - name: OOP notification
+        if: steps.detect.outputs.oop_changed == 'true'
         env:
           OOP: ${{ secrets.OOP }}
         run: python oop.py
 
-      - name: Discord bot notification
-        if: steps.check_aor1.outputs.AOR1_CHANGED == 'true'
+      - name: AOR1 notification
+        if: steps.detect.outputs.aor1_changed == 'true'
         env:
           AOR1: ${{ secrets.AOR1 }}
         run: python aor1.py
-
-      
