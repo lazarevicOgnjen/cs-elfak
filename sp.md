@@ -1,6 +1,6 @@
 Advanced search...
 Forums
-Search results: 24
+Search results: 24.
 1
 (current)
 2
