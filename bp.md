@@ -1,11 +1,20 @@
 Advanced search...
 Forums
-Search results: 16
+Search results: 17
 1
 (current)
 2
 »
 Next page
+News forum -> Rezultati ispita - APRIL 2025 -> Преглед поена и предлог оцена - АПРИЛ 2025
+by Leonid Stoimenov - Tuesday, 28 October 2025, 1:38 PM
+U prilogu je pregled osvojenih poena i predlog ocena.
+Upis ocena je u četvrtak, 29.10.2025 u 12:00 u prostoriji M2-2.
+
+BP APR 25 ocene.pdf
+Permalink
+Show parent
+See this post in context
 News forum -> Rezultati ispita - APRIL 2025
 by Milena Frtunić Gligorijević - Tuesday, 28 October 2025, 11:43 AM
 U prilogu su rezultati ispita za APRIL 2025.
@@ -80,21 +89,6 @@ sala A3: 15397<broj indeksa<19701
 sala A4: 19701<broj indeksa<20027
 
 Permalink
-See this post in context
-News forum -> Резултати испита - ЈАНУАР 2025 -> Резултати испита и предлог оцена - ЈАНУАР 2025
-by Leonid Stoimenov - Tuesday, 9 September 2025, 4:12 PM
-У прилогу су резултати испита након испитног рока ЈАНУАР 2025.
-Наведени су поени које сте освојили на колоквијуму П1 и у испитном року.
-Поља означена зелено значе да сте положили тај део испита (односи се на П1, П2, П укупно, Т1, Т2 и Т Укупно). 
-Жутом бојом су означени поједини делови које сте условно положили (треба у збиру за П или Т део да имате преко 50%). 
-За полагање испита битно је да вам је П и Т поље зелено.
-Положени делови испита вам важе и у наредним испитним роковима.
-За студенте који су положили све делове испита  наведен је укупан збир поена и предлог оцене. Ако сте задовољни предлогом, можете да упишете оцену у овом или неком од наредних рокова (важно је да имате формалну пријаву преко СИПа да би могао да вам унесем оцену у записник).
-Подсећам вас да је упис оцена у четвртак, 11.9.2025. у 12:00 у просторији М2-1. 
-
-BP JAN 25 ocene.pdf
-Permalink
-Show parent
 See this post in context
 1
 (current)
