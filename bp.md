@@ -1,11 +1,17 @@
 Advanced search...
 Forums
-Search results: 15
+Search results: 16
 1
 (current)
 2
 »
 Next page
+News forum -> Rezultati ispita - APRIL 2025
+by Milena Frtunić Gligorijević - Tuesday, 28 October 2025, 11:43 AM
+U prilogu su rezultati ispita za APRIL 2025.
+BP-april.pdf
+Permalink
+See this post in context
 News forum -> Rezultati ispita - OKTOBAR 2025. -> Upis ocena - OKTOBAR 2025
 by Leonid Stoimenov - Friday, 17 October 2025, 2:26 PM
 U prilogu je pregled osvojenih poena i predlog ocena.
@@ -89,16 +95,6 @@ by Leonid Stoimenov - Tuesday, 9 September 2025, 4:12 PM
 BP JAN 25 ocene.pdf
 Permalink
 Show parent
-See this post in context
-News forum -> Резултати испита - ЈАНУАР 2025
-by Leonid Stoimenov - Tuesday, 9 September 2025, 1:21 PM
-У прилогу се налазе резултати испита за испитни рок ЈАНУАР 2025. 
-Део испита сте положили ако имате више од 50% поена. Положени део испита важи и у наредним роковима. 
-У току дана објавићу укупан број поена и предлог оцена. 
-Упис оцена је у четвртак, 11.9.2025. у 12:00 у просторији М2-1. 
-Радове можете да погледате у истом термину
-BP JAN 25.pdf
-Permalink
 See this post in context
 1
 (current)
