@@ -7,10 +7,10 @@ Search results: 26
 3
 »
 Next page
-Obaveštenja -> Rezultati aprilskog ispitnog roka
+Obaveštenja -> Rezultati aprilskog ispitnog roka - promenjen termin upisa ocene
 by Anđelija Đorđević - Wednesday, 29 October 2025, 5:04 PM
 U prilogu se nalaze rezultati aprilskog ispitnog roka.
-Gledanje radova i upis ocena održaće se u četvrtak, 30. oktobra, u 12h u laboratoriji 533.
+Gledanje radova i upis ocena održaće se u četvrtak, 30. oktobra, u 14h u laboratoriji 533.
 OOP april 2025 - rezultati ispita.pdf
 Permalink
 See this post in context
