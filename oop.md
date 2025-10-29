@@ -1,12 +1,19 @@
 Advanced search...
 Forums
-Search results: 25
+Search results: 26
 1
 (current)
 2
 3
 »
 Next page
+Obaveštenja -> Rezultati aprilskog ispitnog roka
+by Anđelija Đorđević - Wednesday, 29 October 2025, 5:04 PM
+U prilogu se nalaze rezultati aprilskog ispitnog roka.
+Gledanje radova i upis ocena održaće se u četvrtak, 30. oktobra, u 12h u laboratoriji 533.
+OOP april 2025 - rezultati ispita.pdf
+Permalink
+See this post in context
 Obaveštenja -> Aprilski ispitni rok - Rezultati pisanog i termin usmenog dela ispita
 by Anđelija Đorđević - Friday, 24 October 2025, 11:33 AM
 U prilogu se nalaze rezultati pisanog dela ispita u aprilskom ispitnom roku.
@@ -80,14 +87,6 @@ U prilogu se nalaze rezultati junskog ispitnog roka.
 Upis ocena i gledanje radova održaće se u sredu, 24.9.2025. u 14.00h u laboratoriji 533.
 
 OOP Jun 2025 - rezultati.pdf
-Permalink
-See this post in context
-Obaveštenja -> OOP - Usmeni deo ispita - JUN
-by Aleksandar Veljanovski - Tuesday, 16 September 2025, 1:55 PM
-U prilogu se nalazi spisak studenata koji su položili pisani deo ispita u januarskom ispitnom roku i pozivaju se na usmeni deo ispita.
-Usmeni deo ispita održaće se u petak, 19. septembra, u 13:30, u prostoriji K3. 
-
-OOP Jun 2025 - rezultati zadaci.pdf
 Permalink
 See this post in context
 1
