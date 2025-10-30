@@ -1,6 +1,13 @@
 Advanced search...
 Forums
-Search results: 8
+Search results: 9
+Obaveštenja -> Rezultati ispita u ispitnom roku oktobar 2
+by Anđelija Đorđević - Thursday, 30 October 2025, 11:09 AM
+U prilogu se nalaze rezultati ispita u ispitnom roku oktobar 2.
+Upis ocena i gledanje radova održaće se u petak, 31. oktobra, u 13.30h u laboratoriji 533.
+OOProj 2025 oktobar 2.pdf
+Permalink
+See this post in context
 Obaveštenja -> Upis ocena i gledanje radova u aprilskom ispitnom roku
 by Anđelija Đorđević - Sunday, 26 October 2025, 12:21 PM
 Upis ocena i gledanje radova u aprilskom ispitnom roku održaće se u ponedeljak, 27. oktobra, u 13.30 časova, u laboratoriji 533.
