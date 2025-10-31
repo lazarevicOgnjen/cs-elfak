@@ -1,11 +1,17 @@
 Advanced search...
 Forums
-Search results: 17
+Search results: 18
 1
 (current)
 2
 »
 Next page
+News forum -> Važenje položenih delova ispita
+by Leonid Stoimenov - Friday, 31 October 2025, 10:55 AM
+Delovi ispita koje ste položili u prethodnim rokovima važe vam zaključno sa ispitnim rokom Oktobar 3. 
+Od ispitnog roka Decembar ispit polažete u celini, a od ispitnog roka Januar važe pravila za novu generaciju studenata. 
+Permalink
+See this post in context
 News forum -> Rezultati ispita - APRIL 2025 -> Преглед поена и предлог оцена - АПРИЛ 2025
 by Leonid Stoimenov - Tuesday, 28 October 2025, 1:38 PM
 U prilogu je pregled osvojenih poena i predlog ocena.
@@ -79,15 +85,6 @@ by Leonid Stoimenov - Friday, 19 September 2025, 11:51 AM
 Радове можете да погледате 23.9.25. u 10:00 у просторији М2-2.
 
 BP JUN 25 ocene.pdf
-Permalink
-See this post in context
-News forum -> Raspored studenata po salama - junski ispitni rok (2024/2025)
-by Milena Frtunić Gligorijević - Wednesday, 10 September 2025, 2:18 PM
-Poštovane koleginice i kolege,
-Raspored studenata po salama za polaganje ispita u junskom ispitnom roku, 11.09.2025. godine, je sledeći:
-sala A3: 15397<broj indeksa<19701
-sala A4: 19701<broj indeksa<20027
-
 Permalink
 See this post in context
 1
