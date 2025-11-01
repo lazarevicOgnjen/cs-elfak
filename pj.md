@@ -1,12 +1,18 @@
 Advanced search...
 Forums
-Search results: 24
+Search results: 25
 1
 (current)
 2
 3
 »
 Next page
+Obaveštenja -> Java rezultati - Oktobar 2 2025
+by Martin Jovanović - Saturday, 1 November 2025, 10:11 PM
+Ko želi da pogleda rad neka mi pošalje mejl.
+
+Permalink
+See this post in context
 Obaveštenja -> Usmeni deo ispita (Oktobar 2)
 by Suzana Stojkovic - Friday, 31 October 2025, 1:40 PM
 Usmeni deo ispita će biti održan u sredu 5.11.2025.
@@ -58,15 +64,6 @@ Obaveštenja -> Java rezultati - Oktobar 2025
 by Martin Jovanović - Thursday, 16 October 2025, 7:28 AM
 Ko želi da pogleda rad neka mi se javi mejlom da mu pošaljem.
 PJ Java 2025-10 Rezultati v02.pdf
-Permalink
-See this post in context
-Obaveštenja -> Raspored polaganja pismenog dela ispita - oktobarski rok
-by Nikola Đorđević - Friday, 10 October 2025, 2:02 PM
-Poštovane koleginice i kolege,
-Raspored polaganja pismenog dela ispita u oktobarskom roku je sledeći:
-E4 - broj indeksa <= 19705
-K2 - broj indeksa > 19705.
-
 Permalink
 See this post in context
 1
