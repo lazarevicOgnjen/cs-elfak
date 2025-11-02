@@ -1,12 +1,21 @@
 Advanced search...
 Forums
-Search results: 26
+Search results: 27
 1
 (current)
 2
 3
 »
 Next page
+Obaveštenja -> Oktobar 2 - usmeni deo
+by Aleksandar Veljanovski - Sunday, 2 November 2025, 11:39 AM
+Usmeni deo ispita zakazan je za utorak 04.11.2025. godine u 11:00 u K3.
+
+Rezultati pisanog dela su u prilogu.
+
+OOP 2025 - Oktobar 2 -Rezultati pismeni.pdf
+Permalink
+See this post in context
 Obaveštenja -> Rezultati aprilskog ispitnog roka - promenjen termin upisa ocene
 by Anđelija Đorđević - Wednesday, 29 October 2025, 5:04 PM
 U prilogu se nalaze rezultati aprilskog ispitnog roka.
@@ -78,15 +87,6 @@ by Vladan Mihajlović - Monday, 29 September 2025, 7:51 AM
  
 
 
-Permalink
-See this post in context
-Obaveštenja -> OOP - Rezultati junskog ispitnog roka
-by Aleksandar Veljanovski - Monday, 22 September 2025, 1:13 PM
-U prilogu se nalaze rezultati junskog ispitnog roka.
-
-Upis ocena i gledanje radova održaće se u sredu, 24.9.2025. u 14.00h u laboratoriji 533.
-
-OOP Jun 2025 - rezultati.pdf
 Permalink
 See this post in context
 1
