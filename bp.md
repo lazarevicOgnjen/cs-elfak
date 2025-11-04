@@ -1,11 +1,26 @@
 Advanced search...
 Forums
-Search results: 18
+Search results: 20
 1
 (current)
 2
 »
 Next page
+News forum -> Rezultati ispita - OKTOBAR 2 -> Pregled osvojenih poena i predlog ocena - OKTOBAR 2
+by Leonid Stoimenov - Tuesday, 4 November 2025, 10:32 AM
+U prilogu je pregled osvojenih poena i predlog ocena.
+Upis ocena je u sredu, 5.11.2025 u 12:00 u prostoriji M2-2.
+
+BP OKT 2 25 ocene.pdf
+Permalink
+Show parent
+See this post in context
+News forum -> Rezultati ispita - OKTOBAR 2
+by Leonid Stoimenov - Tuesday, 4 November 2025, 10:31 AM
+U prilogu su rezultati ispita za Oktobar 2.
+Rez OKT2.pdf
+Permalink
+See this post in context
 News forum -> Važenje položenih delova ispita
 by Leonid Stoimenov - Friday, 31 October 2025, 10:55 AM
 Delovi ispita koje ste položili u prethodnim rokovima važe vam zaključno sa ispitnim rokom Oktobar 3. 
@@ -63,29 +78,6 @@ by Leonid Stoimenov - Friday, 3 October 2025, 6:39 PM
 BP SEP 25 ocene.pdf
 Permalink
 Show parent
-See this post in context
-News forum -> Raspored studenata po salama - septembarski ispitni rok (2024/2025)
-by Milena Frtunić Gligorijević - Tuesday, 23 September 2025, 8:20 PM
-Poštovane koleginice i kolege,
-Raspored studenata po salama za polaganje ispita u septembarskom ispitnom roku, 24.09.2025. godine, je sledeći:
-sala A4: 17946<=broj indeksa<=19727
-sala A3: 19728<=broj indeksa<=20019
-Permalink
-See this post in context
-News forum -> Резултати испита - ЈУН 2025
-by Leonid Stoimenov - Friday, 19 September 2025, 11:51 AM
-У прилогу су резултати испита након испитног рока ЈУН 2025.
-Наведени су поени које сте освојили на колоквијуму П1 и у испитном року (ЈАНУАР и/или ЈУН).
-Поља означена зелено значе да сте положили тај део испита (односи се на П1, П2, П укупно, Т1, Т2 и Т Укупно). 
-Жутом бојом су означени поједини делови које сте условно положили (треба у збиру за П или Т део да имате преко 50%). 
-За полагање испита битно је да вам је П и Т поље зелено.
-Положени делови испита вам важе и у наредним испитним роковима.
-За студенте који су положили све делове испита  наведен је укупан збир поена и предлог оцене. Ако сте задовољни предлогом, можете да упишете оцену у овом или неком од наредних рокова (важно је да имате формалну пријаву преко СИПа да би могао да вам унесем оцену у записник).
-Упис оцена у уторак, 23.9.2025. у 12:00 у просторији М2-1. 
-Радове можете да погледате 23.9.25. u 10:00 у просторији М2-2.
-
-BP JUN 25 ocene.pdf
-Permalink
 See this post in context
 1
 (current)
