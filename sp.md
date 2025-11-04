@@ -1,12 +1,18 @@
 Advanced search...
 Forums
-Search results: 29
+Search results: 30
 1
 (current)
 2
 3
 »
 Next page
+Forum novosti -> Резултати писменог дела испита у испитном року октобар 2 2025
+by Nikola Davidović - Wednesday, 5 November 2025, 12:38 AM
+У прилогу су резултати писменог дела испита у испитном року октобар 2 2025. 
+SP 2025 Okt2 Bodovi.pdf
+Permalink
+See this post in context
 Forum novosti -> Делимични резултати испита (Т део) - Октобар 2
 by Leonid Stoimenov - Friday, 31 October 2025, 12:58 PM
 Резултати за Т део испита:
@@ -118,15 +124,6 @@ by Leonid Stoimenov - Wednesday, 22 October 2025, 2:10 PM
 Радове можете да погледате у истом термину. 
 
 SP OKT 25 upis.pdf
-Permalink
-See this post in context
-Forum novosti -> Резултати писменог дела испита у октобарском испитном року 2025
-by Nikola Davidović - Monday, 20 October 2025, 3:27 PM
-Поштоване колегинице и колеге, 
-У прилогу су резултати писменог дела испита у октобарском испитном року 2025. Професор Стоименов ће на основу ових резултата објавити коначни списак са предлогом оцена.
-Поздрав
-
-SP 2025 Okt Bodovi.pdf
 Permalink
 See this post in context
 1
