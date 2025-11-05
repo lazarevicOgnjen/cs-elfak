@@ -1,12 +1,22 @@
 Advanced search...
 Forums
-Search results: 30
+Search results: 31
 1
 (current)
 2
 3
+4
 »
 Next page
+Forum novosti -> Резултати испита - ОКТОБАР 2 2025 (претходне генерације)
+by Leonid Stoimenov - Wednesday, 5 November 2025, 2:21 PM
+У прилогу су резултати испита и предлог оцена за студенте претходних генерација.
+Упис оцена је у петак, 6.11.25. у 10:00, М2-2.
+Радове можете да погледате у истом термину, 6.11.25. у 10:00 у просторији М2-2. 
+
+SP OKT2 25 upis.pdf
+Permalink
+See this post in context
 Forum novosti -> Резултати писменог дела испита у испитном року октобар 2 2025
 by Nikola Davidović - Wednesday, 5 November 2025, 12:38 AM
 У прилогу су резултати писменог дела испита у испитном року октобар 2 2025. 
@@ -117,18 +127,10 @@ by Leonid Stoimenov - Wednesday, 22 October 2025, 2:26 PM
 SP OKT 25 novi.pdf
 Permalink
 See this post in context
-Forum novosti -> Резултати испита - ОКТОБАР 2025 (претходне генерације)
-by Leonid Stoimenov - Wednesday, 22 October 2025, 2:10 PM
-У прилогу су резултати испита и предлог оцена за студенте претходних генерација.
-Упис оцена је у петак, 24.10.25. у 10:00 у просторији М2-2.
-Радове можете да погледате у истом термину. 
-
-SP OKT 25 upis.pdf
-Permalink
-See this post in context
 1
 (current)
 2
 3
+4
 »
 Next page
