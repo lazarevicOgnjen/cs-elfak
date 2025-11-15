@@ -71,4 +71,46 @@ jobs:
             fi
           done
 
-      
+      # ✅ Discord Notifications — FIXED CONDITIONS ✅
+
+      - name: PJ notification
+        if: steps.detect.outputs.pj_changed == 'true'
+        env:
+          PJ: ${{ secrets.PJ }}
+        run: python pj.py
+
+      - name: SP notification
+        if: steps.detect.outputs.sp_changed == 'true'
+        env:
+          SP: ${{ secrets.SP }}
+        run: python sp.py
+
+      - name: OOPJ notification
+        if: steps.detect.outputs.oopj_changed == 'true'
+        env:
+          OOPJ: ${{ secrets.OOPJ }}
+        run: python oopj.py
+
+      - name: BP notification
+        if: steps.detect.outputs.bp_changed == 'true'
+        env:
+          BP: ${{ secrets.BP }}
+        run: python bp.py
+
+      - name: LP notification
+        if: steps.detect.outputs.lp_changed == 'true'
+        env:
+          LP: ${{ secrets.LP }}
+        run: python lp.py
+
+      - name: OOP notification
+        if: steps.detect.outputs.oop_changed == 'true'
+        env:
+          OOP: ${{ secrets.OOP }}
+        run: python oop.py
+
+      - name: AOR1 notification
+        if: steps.detect.outputs.aor1_changed == 'true'
+        env:
+          AOR1: ${{ secrets.AOR1 }}
+        run: python aor1.py
